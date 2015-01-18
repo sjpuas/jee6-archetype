@@ -1,6 +1,8 @@
  Java EE 6 Archetype
 ==============
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sjpuas/jee6-archetype?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Java EE 6 Archetype, includes 5 modules: Web , Ejb, Commons , Persistence and Ear
 
 ## Installation 
